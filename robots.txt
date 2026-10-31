@@ -1,3 +1,4 @@
 User-agent: *
 Allow: /
-Sitemap: https://viraj-salunke.github.io/website/sitemap.xml
+Sitemap: https://vprojectx.vercel.app/sitemap.xml
+
